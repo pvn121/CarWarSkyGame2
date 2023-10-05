@@ -2,8 +2,8 @@ const score = document.querySelector(".score");
 const startscreen = document.querySelector(".startscreen");
 const btn = document.querySelectorAll(".btn");
 const gameArea = document.querySelector(".gameArea");
-var bgAudio = new Audio("../WarGame/image/bg.mp3");
-var crashAudio = new Audio("../WarGame/image/crash.mp3");
+var bgAudio = new Audio("./image/bg.mp3");
+var crashAudio = new Audio("./image/crash.mp3");
 
 startscreen.addEventListener("click", start);
 
