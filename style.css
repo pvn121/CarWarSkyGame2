@@ -54,13 +54,13 @@
 }
 
 .car{
-    background: url('../WarGame/image/car.png');
+    background: url('./image/car.png');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 
 .enemy{
-    background: url('../WarGame/image/blue.png');
+    background: url('./image/blue.png');
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
